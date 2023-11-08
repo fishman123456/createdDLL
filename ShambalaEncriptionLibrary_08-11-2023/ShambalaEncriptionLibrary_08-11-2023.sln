@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShambalaEncriptionLibrary_08-11-2023", "ShambalaEncriptionLibrary_08-11-2023.csproj", "{2AE4B09E-E709-4931-8231-D59A18DECA7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "..\ConsoleApp3\ConsoleApp3.csproj", "{6C752CAA-D9D2-42F6-B1ED-6E4F097B51B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AE4B09E-E709-4931-8231-D59A18DECA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE4B09E-E709-4931-8231-D59A18DECA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE4B09E-E709-4931-8231-D59A18DECA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE4B09E-E709-4931-8231-D59A18DECA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C752CAA-D9D2-42F6-B1ED-6E4F097B51B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C752CAA-D9D2-42F6-B1ED-6E4F097B51B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C752CAA-D9D2-42F6-B1ED-6E4F097B51B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C752CAA-D9D2-42F6-B1ED-6E4F097B51B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C841EC2E-B083-4A5D-8BCB-F4599B5E7F5E}
+	EndGlobalSection
+EndGlobal
