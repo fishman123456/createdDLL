@@ -5,3 +5,10 @@ C:\Users\Fishman_1\Documents\GitHub\DinamicLinkTest_shambala08-11-2023\obj\Debug
 C:\Users\Fishman_1\Documents\GitHub\DinamicLinkTest_shambala08-11-2023\obj\Debug\DinamicLinkTest_shambala08-11-2023.csproj.CoreCompileInputs.cache
 C:\Users\Fishman_1\Documents\GitHub\DinamicLinkTest_shambala08-11-2023\obj\Debug\DinamicLinkTest_shambala08-11-2023.exe
 C:\Users\Fishman_1\Documents\GitHub\DinamicLinkTest_shambala08-11-2023\obj\Debug\DinamicLinkTest_shambala08-11-2023.pdb
+C:\Users\Fishman_1\Documents\GitHub\createdDLL\DinamicLinkTest_shambala08-11-2023\bin\Debug\DinamicLinkTest_shambala08-11-2023.exe.config
+C:\Users\Fishman_1\Documents\GitHub\createdDLL\DinamicLinkTest_shambala08-11-2023\bin\Debug\DinamicLinkTest_shambala08-11-2023.exe
+C:\Users\Fishman_1\Documents\GitHub\createdDLL\DinamicLinkTest_shambala08-11-2023\bin\Debug\DinamicLinkTest_shambala08-11-2023.pdb
+C:\Users\Fishman_1\Documents\GitHub\createdDLL\DinamicLinkTest_shambala08-11-2023\obj\Debug\DinamicLinkTest_shambala08-11-2023.csproj.AssemblyReference.cache
+C:\Users\Fishman_1\Documents\GitHub\createdDLL\DinamicLinkTest_shambala08-11-2023\obj\Debug\DinamicLinkTest_shambala08-11-2023.csproj.CoreCompileInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\createdDLL\DinamicLinkTest_shambala08-11-2023\obj\Debug\DinamicLinkTest_shambala08-11-2023.exe
+C:\Users\Fishman_1\Documents\GitHub\createdDLL\DinamicLinkTest_shambala08-11-2023\obj\Debug\DinamicLinkTest_shambala08-11-2023.pdb

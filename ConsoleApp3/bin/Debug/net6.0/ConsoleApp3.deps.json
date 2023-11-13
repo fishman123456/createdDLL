@@ -8,13 +8,13 @@
     ".NETCoreApp,Version=v6.0": {
       "ConsoleApp3/1.0.0": {
         "dependencies": {
-          "ShambalaEncriptionLibrary_08-11-2023": "1.0.0"
+          "EncriptionLibrary": "1.0.0"
         },
         "runtime": {
           "ConsoleApp3.dll": {}
         }
       },
-      "ShambalaEncriptionLibrary_08-11-2023/1.0.0": {
+      "EncriptionLibrary/1.0.0": {
         "runtime": {
           "ShambalaEncriptionLibrary_08-11-2023.dll": {}
         }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ShambalaEncriptionLibrary_08-11-2023/1.0.0": {
+    "EncriptionLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fishman_1\\Documents\\GitHub\\ConsoleApp3\\ConsoleApp3.csproj": {}
+    "C:\\Users\\Fishman_1\\Documents\\GitHub\\createdDLL\\ConsoleApp3\\ConsoleApp3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fishman_1\\Documents\\GitHub\\ConsoleApp3\\ConsoleApp3.csproj": {
+    "C:\\Users\\Fishman_1\\Documents\\GitHub\\createdDLL\\ConsoleApp3\\ConsoleApp3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fishman_1\\Documents\\GitHub\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectUniqueName": "C:\\Users\\Fishman_1\\Documents\\GitHub\\createdDLL\\ConsoleApp3\\ConsoleApp3.csproj",
         "projectName": "ConsoleApp3",
-        "projectPath": "C:\\Users\\Fishman_1\\Documents\\GitHub\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectPath": "C:\\Users\\Fishman_1\\Documents\\GitHub\\createdDLL\\ConsoleApp3\\ConsoleApp3.csproj",
         "packagesPath": "C:\\Users\\Fishman_1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fishman_1\\Documents\\GitHub\\ConsoleApp3\\obj\\",
+        "outputPath": "C:\\Users\\Fishman_1\\Documents\\GitHub\\createdDLL\\ConsoleApp3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fishman_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Fishman_1\\Documents\\GitHub\\ShambalaEncriptionLibrary_08-11-2023\\ShambalaEncriptionLibrary_08-11-2023.csproj": {
-                "projectPath": "C:\\Users\\Fishman_1\\Documents\\GitHub\\ShambalaEncriptionLibrary_08-11-2023\\ShambalaEncriptionLibrary_08-11-2023.csproj"
+              "C:\\Users\\Fishman_1\\Documents\\GitHub\\createdDLL\\ShambalaEncriptionLibrary_08-11-2023\\EncriptionLibrary.csproj": {
+                "projectPath": "C:\\Users\\Fishman_1\\Documents\\GitHub\\createdDLL\\ShambalaEncriptionLibrary_08-11-2023\\EncriptionLibrary.csproj"
               }
             }
           }
@@ -63,11 +63,11 @@
         }
       }
     },
-    "C:\\Users\\Fishman_1\\Documents\\GitHub\\ShambalaEncriptionLibrary_08-11-2023\\ShambalaEncriptionLibrary_08-11-2023.csproj": {
+    "C:\\Users\\Fishman_1\\Documents\\GitHub\\createdDLL\\ShambalaEncriptionLibrary_08-11-2023\\EncriptionLibrary.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fishman_1\\Documents\\GitHub\\ShambalaEncriptionLibrary_08-11-2023\\ShambalaEncriptionLibrary_08-11-2023.csproj",
-        "projectName": "ShambalaEncriptionLibrary_08-11-2023",
-        "projectPath": "C:\\Users\\Fishman_1\\Documents\\GitHub\\ShambalaEncriptionLibrary_08-11-2023\\ShambalaEncriptionLibrary_08-11-2023.csproj",
+        "projectUniqueName": "C:\\Users\\Fishman_1\\Documents\\GitHub\\createdDLL\\ShambalaEncriptionLibrary_08-11-2023\\EncriptionLibrary.csproj",
+        "projectName": "EncriptionLibrary",
+        "projectPath": "C:\\Users\\Fishman_1\\Documents\\GitHub\\createdDLL\\ShambalaEncriptionLibrary_08-11-2023\\EncriptionLibrary.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}

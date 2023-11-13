@@ -2,27 +2,27 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "ShambalaEncriptionLibrary_08-11-2023/1.0.0": {
+      "EncriptionLibrary/1.0.0": {
         "type": "project",
         "compile": {
-          "bin/placeholder/ShambalaEncriptionLibrary_08-11-2023.dll": {}
+          "bin/placeholder/EncriptionLibrary.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ShambalaEncriptionLibrary_08-11-2023.dll": {}
+          "bin/placeholder/EncriptionLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ShambalaEncriptionLibrary_08-11-2023/1.0.0": {
+    "EncriptionLibrary/1.0.0": {
       "type": "project",
-      "path": "../ShambalaEncriptionLibrary_08-11-2023/ShambalaEncriptionLibrary_08-11-2023.csproj",
-      "msbuildProject": "../ShambalaEncriptionLibrary_08-11-2023/ShambalaEncriptionLibrary_08-11-2023.csproj"
+      "path": "../ShambalaEncriptionLibrary_08-11-2023/EncriptionLibrary.csproj",
+      "msbuildProject": "../ShambalaEncriptionLibrary_08-11-2023/EncriptionLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "ShambalaEncriptionLibrary_08-11-2023 >= 1.0.0"
+      "EncriptionLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -31,11 +31,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fishman_1\\Documents\\GitHub\\ConsoleApp3\\ConsoleApp3.csproj",
+      "projectUniqueName": "C:\\Users\\Fishman_1\\Documents\\GitHub\\createdDLL\\ConsoleApp3\\ConsoleApp3.csproj",
       "projectName": "ConsoleApp3",
-      "projectPath": "C:\\Users\\Fishman_1\\Documents\\GitHub\\ConsoleApp3\\ConsoleApp3.csproj",
+      "projectPath": "C:\\Users\\Fishman_1\\Documents\\GitHub\\createdDLL\\ConsoleApp3\\ConsoleApp3.csproj",
       "packagesPath": "C:\\Users\\Fishman_1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fishman_1\\Documents\\GitHub\\ConsoleApp3\\obj\\",
+      "outputPath": "C:\\Users\\Fishman_1\\Documents\\GitHub\\createdDLL\\ConsoleApp3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fishman_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Fishman_1\\Documents\\GitHub\\ShambalaEncriptionLibrary_08-11-2023\\ShambalaEncriptionLibrary_08-11-2023.csproj": {
-              "projectPath": "C:\\Users\\Fishman_1\\Documents\\GitHub\\ShambalaEncriptionLibrary_08-11-2023\\ShambalaEncriptionLibrary_08-11-2023.csproj"
+            "C:\\Users\\Fishman_1\\Documents\\GitHub\\createdDLL\\ShambalaEncriptionLibrary_08-11-2023\\EncriptionLibrary.csproj": {
+              "projectPath": "C:\\Users\\Fishman_1\\Documents\\GitHub\\createdDLL\\ShambalaEncriptionLibrary_08-11-2023\\EncriptionLibrary.csproj"
             }
           }
         }

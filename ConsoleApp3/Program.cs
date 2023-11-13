@@ -1,4 +1,4 @@
-﻿using ShambalaEncriptionLibrary_08_11_2023;
+﻿using EncriptionLibrary;
 namespace ConsoleApp3
 
 {

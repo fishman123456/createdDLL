@@ -1,6 +1,0 @@
-C:\Users\Fishman_1\Documents\GitHub\ShambalaEncriptionLibrary_08-11-2023\bin\Debug\ShambalaEncriptionLibrary_08-11-2023.dll
-C:\Users\Fishman_1\Documents\GitHub\ShambalaEncriptionLibrary_08-11-2023\bin\Debug\ShambalaEncriptionLibrary_08-11-2023.pdb
-C:\Users\Fishman_1\Documents\GitHub\ShambalaEncriptionLibrary_08-11-2023\obj\Debug\ShambalaEncriptionLibrary_08-11-2023.csproj.AssemblyReference.cache
-C:\Users\Fishman_1\Documents\GitHub\ShambalaEncriptionLibrary_08-11-2023\obj\Debug\ShambalaEncriptionLibrary_08-11-2023.csproj.CoreCompileInputs.cache
-C:\Users\Fishman_1\Documents\GitHub\ShambalaEncriptionLibrary_08-11-2023\obj\Debug\ShambalaEncriptionLibrary_08-11-2023.dll
-C:\Users\Fishman_1\Documents\GitHub\ShambalaEncriptionLibrary_08-11-2023\obj\Debug\ShambalaEncriptionLibrary_08-11-2023.pdb

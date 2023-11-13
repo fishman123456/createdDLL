@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ShambalaEncriptionLibrary_08-11-2023\ShambalaEncriptionLibrary_08-11-2023.csproj" />
+    <ProjectReference Include="..\ShambalaEncriptionLibrary_08-11-2023\EncriptionLibrary.csproj" />
   </ItemGroup>
 
 </Project>
